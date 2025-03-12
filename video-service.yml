@@ -38,6 +38,6 @@ management:
 #service details
 info:
   app:
-    name: "video-service"
-    description: "This is a video service"
+    name: "video-service-github"
+    description: "This is a video service from github"
     version: "1.0"
