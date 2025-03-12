@@ -38,8 +38,8 @@ management:
 #service details
 info:
   app:
-    name: "course-service"
-    description: "This is a course service from github server from refresh endpoints"
+    name: "course-service-bus"
+    description: "This is a course service from github server from using Bus Refresh"
     version: "1.1GC"
 
 
