@@ -15,7 +15,7 @@ spring:
         format_sql: true
 
 server:
-  port: 9092
+  port: 9096
 
 #service discovery eureka configuration
 #eureka.instance.prefer-ip-address=true
