@@ -39,8 +39,8 @@ management:
 info:
   app:
     name: "course-service"
-    description: "This is a course service"
-    version: "1.0"
+    description: "This is a course service from github server"
+    version: "1.0GC"
 
 
 
