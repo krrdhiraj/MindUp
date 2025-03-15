@@ -39,5 +39,5 @@ management:
 info:
   app:
     name: "video-service-github-webhook"
-    description: "This is a video service from github with webhook"
+    description: "This is a video service from github with [webhook]"
     version: "1.2"
