@@ -1,5 +1,5 @@
 server:
-  port: 9098
+  port: 9099
 
 spring:
   application:
@@ -38,6 +38,6 @@ management:
 #service details
 info:
   app:
-    name: "video-service-github"
-    description: "This is a video service from github"
-    version: "1.0"
+    name: "video-service-github-webhook"
+    description: "This is a video service from github with webhook"
+    version: "1.2"
