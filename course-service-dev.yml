@@ -17,7 +17,7 @@ spring:
         format_sql: true
 
 server:
-  port: 9097
+  port: 9093
 
 #service discovery eureka configuration
 #eureka.instance.prefer-ip-address=true
@@ -41,5 +41,5 @@ management:
 info:
   app:
     name: "course-service-dev"
-    description: "This is a course service development mode from github server"
-    version: "1.0D"
+    description: "This is a course service development mode from github server using webhook."
+    version: "1.10D"
