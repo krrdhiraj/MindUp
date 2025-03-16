@@ -38,7 +38,7 @@ management:
 #service details
 info:
   app:
-    name: "course-service-bus"
+    name: "course-service"
     description: "This is a course service from github server from using (not Bus Refresh) but [webhook]"
     version: "1.2D"
 
