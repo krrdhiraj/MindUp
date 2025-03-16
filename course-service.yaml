@@ -39,8 +39,8 @@ management:
 info:
   app:
     name: "course-service-bus"
-    description: "This is a course service from github server from using Bus Refresh -> [webhoot]"
-    version: "1.1GC"
+    description: "This is a course service from github server from using (not Bus Refresh) but [webhook]"
+    version: "1.2D"
 
 
 
